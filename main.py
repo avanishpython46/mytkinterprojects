@@ -232,3 +232,4 @@ w9.place(x=0,y=250)
 w9_entry = Entry(f2,width=6,textvariable=newquan10)
 w9_entry.place(x=325,y=250)
 root.mainloop()
+#End
